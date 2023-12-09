@@ -26,7 +26,7 @@ Navigate to the project directory:
 1.  **Clean the Project:**
     Remove the `bin` directory and its contents (`.class` files):
 
-    rm -rf bin
+        rm -rf bin
 
 2.  **Compile the Source Files:**
     Compile `.java` files and place `.class` files in the `bin` directory:
