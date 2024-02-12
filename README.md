@@ -11,7 +11,7 @@ This secure chat application utilizes Elliptic Curve Cryptography for key genera
 - Socket Programming
 - Multi-Threading
 
-## Getting Started
+## Getting Started 
 
 ## Open Terminal or Command Prompt
 
