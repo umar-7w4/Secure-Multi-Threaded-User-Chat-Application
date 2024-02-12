@@ -5,7 +5,7 @@
 This secure chat application utilizes Elliptic Curve Cryptography for key generation and the ElGamal public key encryption method for message encryption and decryption. Integrating socket programming with advanced cryptographic techniques, it ensures secure and private client-server communication, protecting messages from unauthorized access.
 
 ## Technologies and Concepts
-
+ 
 - Java
 - Main Frame
 - Socket Programming
